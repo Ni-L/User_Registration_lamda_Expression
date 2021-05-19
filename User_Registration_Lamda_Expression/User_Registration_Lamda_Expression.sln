@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User_Registration_Lamda_Expression", "User_Registration_Lamda_Expression\User_Registration_Lamda_Expression.csproj", "{A805A61F-482E-4280-92D6-89FB0C7C5DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTest", "MSTest\MSTest.csproj", "{E01771F0-4D96-43BA-8D59-D3A543915274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A805A61F-482E-4280-92D6-89FB0C7C5DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A805A61F-482E-4280-92D6-89FB0C7C5DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A805A61F-482E-4280-92D6-89FB0C7C5DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A805A61F-482E-4280-92D6-89FB0C7C5DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01771F0-4D96-43BA-8D59-D3A543915274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01771F0-4D96-43BA-8D59-D3A543915274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01771F0-4D96-43BA-8D59-D3A543915274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01771F0-4D96-43BA-8D59-D3A543915274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78573F32-3156-424B-BC6D-7213D7181D25}
+	EndGlobalSection
+EndGlobal
